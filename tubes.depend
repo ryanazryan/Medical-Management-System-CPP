@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1767200607 source:c:\users\lenovo\onedrive\documents\telkom university 2024\matkul tingkat 3\struktur data praktikum\tugas_besar\tubes\tubes.cpp
+	"tubes.h"
+
+1767200535 c:\users\lenovo\onedrive\documents\telkom university 2024\matkul tingkat 3\struktur data praktikum\tugas_besar\tubes\tubes.h
+	<iostream>
+	<string>
+
+1765892219 source:c:\users\lenovo\onedrive\documents\telkom university 2024\matkul tingkat 3\struktur data praktikum\tugas_besar\tubes\main.cpp
+	<iostream>
+	<limits>
+	<string>
+	"tubes.h"
+
