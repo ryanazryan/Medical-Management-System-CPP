@@ -5,6 +5,8 @@ Project ini adalah implementasi struktur data **Multi Linked List** dengan relas
 ## 👥 Tim Pengembang
 * **Naufal Faiq Azryan** - 103042400047 
 * **Nadila Zari Fani** - 103042400053
+* **Kelas:** IF-48-01 PJJ
+* **Fakultas:** Fakultas Informatika, Universitas Telkom
 
 ## 📋 Deskripsi Project
 Sistem ini memungkinkan pengelolaan data dokter dan pasien, di mana seorang dokter dapat menangani banyak pasien, dan seorang pasien dapat ditangani oleh beberapa dokter dengan batasan **maksimal 5 dokter** per pasien. Hubungan ini dikelola menggunakan **List Relasi** terpisah untuk menjaga independensi data induk.
